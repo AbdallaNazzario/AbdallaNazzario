@@ -6,7 +6,7 @@
 
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdallaNazario&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=AbdallaNazzario&base=120&abbreviated=true)
+<!--![](https://komarev.com/ghpvc/?username=AbdallaNazzario&base=120&abbreviated=true)-->
 
 
 Hello! I'm Abdalle Yassin, a student at Jkuat University, with a passion for Information technology, 
