@@ -15,6 +15,9 @@ in CyberSecurity & Networking. I enjoy applying my knowledge to various projects
 Building PCs from scratch and troubleshooting hardware and software issues are among my hobbies, alongside being an avid PC gamer.
 I'm excited to keep growing and tackle new challenges in the field of Information Technology.
 
+### Roadmap 
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6735da86e86e9ff4d2b73779?variant=dark&roadmaps=cyber-security%2Clinux%2Cgit-github)](https://roadmap.sh)
 
 ### 💞️ Collaboration Interests
 I’m looking to collaborate on projects involving:
